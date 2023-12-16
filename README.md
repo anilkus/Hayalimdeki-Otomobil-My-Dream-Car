@@ -1,4 +1,4 @@
-# Hayalimdeki-Otomobil-My-Dream-Car
+# Hayalimdeki Otomobil | My Dream Car
 
 Bu projenin amacı, otomobil sektöründe çeşitli kıstaslar göz önüne alınarak, üretim fazlalığının önüne geçmek, ülkeye, bölgeye, şehre ve hatta ileride kişiye özel tasarımlar üreterek o markanın satış ve bilinirliğini artırmaktır [1].
 

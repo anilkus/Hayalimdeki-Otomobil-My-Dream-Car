@@ -13,6 +13,7 @@ Bu projenin amacı, otomobil sektöründe çeşitli kıstaslar göz önüne alı
 - Fazla üretim, şirketin nakit akışını olumsuz etkileyebilir. Stokları elde tutma ve satma süreçleri, finansal yönetimi zorlaştırabilir ve likidite sorunlarına yol açabilir.
 
 **Kıstaslar**
+
 Otomobil endüstrisi, global pazarlarda faaliyet gösteren büyük markaların, üretim stratejilerini belirlerken bir dizi faktörü dikkate aldığı karmaşık bir alanı kapsamaktadır. Bu markalar, müşteri taleplerini karşılamak, rekabet avantajı sağlamak ve lojistik avantajlardan yararlanmak amacıyla ülkeler arası farklılaşan ihtiyaçları göz önünde bulundurmalıdır [3].
 
 - Ülke/Şehire göre:

@@ -22,7 +22,8 @@ Bir ülkenin kültürel değerleri, tüketici tercihlerini etkiler. Örneğin, b
 
 _Çalışmamızda özellikle şehre göre verilerin talep edilmesinin sebebi, bu etkenlerden dolayı model üretiminin yapılmasının daha faydalı olduğunu göstermek içindir._
 
-- Araç özelliğine göre : 
+- Araç özelliğine göre :
+  
 Belirli bir bölgedeki tüketici tercihlerini anlamak ve bu doğrultuda üretim yapmak, müşteri memnuniyetini artırabilir. Fazla satılan renk, araç türü veya motor özellikleri sunarak tüketicilere istedikleri ürünü sunmak, satışları artırabilir. Rakip markalara göre belirli bir bölgenin tercihlerine daha iyi uygun modeller sunmak, rekabet avantajı sağlar. Bu, markanın o bölgedeki pazar payını artırabilir [5]. 
 
 Örneğin, Mersinli tüketicilerin tercih ettiği sivri hatlara sahip araçlar tasarlanabilir. Agressif ön ızgara, keskin hatlara sahip kaput ve aracın genel profilinde sivrilik, spor ve çekici bir görünüm sağlayabilir. Sivri ve özgün far tasarımları, aracın dış görünümünü belirginleştirebilir. LED teknolojili farlar veya ince ve sivri far tasarımları, aracın karakterini vurgulayabilir. Mersin'deki tüketicilerin dinamik ve dikkat çekici renkleri tercih ettiği düşünüldüğünde, üretici araçlarını canlı renk seçenekleriyle sunabilir. Örneğin, kırmızı, turuncu veya metalik tonlarda renk seçenekleri öne çıkabilir. Mersinli tüketicilere hitap eden iç mekan tasarımları da düşünülebilir. Özel spor koltuklar, alüminyum veya karbon fiber iç detaylar, spor direksiyon tasarımları gibi özellikler iç mekanı çekici kılabilir.

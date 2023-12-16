@@ -1,3 +1,7 @@
+#Bu kısımda üretici yapay zeka kullanarak, belirli kriterlere göre otomobil modelini görsel olarak oluşturuyoruz.
+#Input olarak text veya görsel alabiliyoruz ve output olarak özgün görseller oluşturabiliyoruz.
+#Projenin tüm detayı için lütfen Read.me kısmındaki açıklamayı okuyunuz.
+
 # Eğer yüklü değilse -- !pip install diffusers transformers accelerate scipy safetensors
 from PIL import Image
 from diffusers import StableDiffusionPipeline, EulerDiscreteScheduler

@@ -1,3 +1,5 @@
+#Bu kısımda veri kümesindeki bilgilerden yola çıkarak sınıflanfırma algoritması kullanılarak alınan bilgilere göre hangi aracın satılacağı belirlenmektedir.
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier

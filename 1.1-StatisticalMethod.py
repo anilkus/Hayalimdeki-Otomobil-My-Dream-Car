@@ -1,3 +1,5 @@
+#Bu kısımda veri kümesindeki bilgilerden yola çıkarak istatistiksel yöntemler ile kullanıcıdan alınan bilgilere göre hangi aracın satılacağı belirlenmektedir.
+
 import pandas as pd
 
 # Excel dosyasını oku

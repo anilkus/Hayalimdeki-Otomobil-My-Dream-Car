@@ -40,7 +40,7 @@ Belirli bir bölgedeki tüketici tercihlerini anlamak ve bu doğrultuda üretim 
 ---------------------------------
 The purpose of this project is to prevent overproduction in the automotive sector by considering various criteria, thereby increasing the sales and visibility of a brand by producing custom designs for the country, region, city, and even individuals in the future [1].
 
-Negative Effects of Overproduction
+**Negative Effects of Overproduction**
 
 Overproduced vehicles can lead to large stocks in storage areas. This situation can increase storage costs and may result in the depreciation of excess inventory.
 Excess production can lead to additional costs in the production process. Excessive use of resources in terms of both materials and labor can increase costs and reduce profit margins.
@@ -50,7 +50,7 @@ Overproduction can waste natural resources and energy. Additionally, the disposa
 Having more vehicles than demand can saturate the market and reduce consumer desire to purchase new vehicles. This can lead to market saturation and long-term customer loss [2].
 Overproduction can negatively impact the company's cash flow. Holding and selling inventory can complicate financial management and lead to liquidity problems.
 
-Criteria
+**Criteria**
 
 The automotive industry encompasses a complex field where major brands operating in global markets consider a series of factors when determining their production strategies. These brands must take into account varying needs between countries to meet customer demands, gain a competitive advantage, and benefit from logistical advantages [3].
 
@@ -66,7 +66,7 @@ For example, vehicles with sharp lines preferred by consumers in Mersin can be d
 
 In our study, using the data we obtained and assumed, the machine learning system is trained with features such as the color, engine capacity, vehicle type, fuel type, etc., of the produced vehicles. When tested with new user data, the system recommends the most suitable features based on the desired criteria. As a result, the system generates a visually appealing and unique vehicle model based on these results.
 
-References
+**References**
 
 GÜNGÖR, İ., & İŞLER, D. B. (2005). ANALYTICAL HIERARCHY APPROACH TO CAR SELECTION. International Journal of Management Economics and Business, 1(2), 21-33.
 AKBAŞ, B., KAYA, D., & EYİDOĞAN, M. (2018). Energy Consumption Analysis and Evaluation of Energy Saving Potential for an Automobile Assembly Factory. Journal of Engineering and Machinery, 59(691), 85-100.

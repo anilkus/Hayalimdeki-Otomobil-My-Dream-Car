@@ -36,3 +36,40 @@ Belirli bir bölgedeki tüketici tercihlerini anlamak ve bu doğrultuda üretim 
 3. Bedir, Atila. (2002). TÜRKİYE'DE OTOMOTİV SANAYİİ GELİŞME PERSPEKTİFİ. 
 4. YURTSEVER, M. (2022). LSTM YÖNTEMİ İLE EKONOMİK GÖSTERGELER KULLANILARAK OTOMOBİL SATIŞ TAHMİNİ. Nevşehir Hacı Bektaş Veli Üniversitesi SBE Dergisi, 12(3), 1481-1492. https://doi.org/10.30783/nevsosbilen.987093
 5. ULUSCUL, C., & DEMİR, A. O. (2023). Otomobil Tercihinde Tüketici Eğilimleri, Türkiye’de Yeni Ve İkinci El Otomobil Kararı. İstanbul Ticaret Üniversitesi Girişimcilik Dergisi, 7(13), 64-86. https://doi.org/10.55830/tje.1242186
+
+---------------------------------
+The purpose of this project is to prevent overproduction in the automotive sector by considering various criteria, thereby increasing the sales and visibility of a brand by producing custom designs for the country, region, city, and even individuals in the future [1].
+
+Negative Effects of Overproduction
+
+Overproduced vehicles can lead to large stocks in storage areas. This situation can increase storage costs and may result in the depreciation of excess inventory.
+Excess production can lead to additional costs in the production process. Excessive use of resources in terms of both materials and labor can increase costs and reduce profit margins.
+If there are more vehicles than demand, vehicle prices may decrease due to competition. This situation can reduce profitability for automotive manufacturers.
+Dealing with excess inventory on an ongoing basis can hinder the development and launch of new and innovative models. This could result in the company losing its competitive advantage.
+Overproduction can waste natural resources and energy. Additionally, the disposal of excess vehicles can contribute to environmental problems.
+Having more vehicles than demand can saturate the market and reduce consumer desire to purchase new vehicles. This can lead to market saturation and long-term customer loss [2].
+Overproduction can negatively impact the company's cash flow. Holding and selling inventory can complicate financial management and lead to liquidity problems.
+
+Criteria
+
+The automotive industry encompasses a complex field where major brands operating in global markets consider a series of factors when determining their production strategies. These brands must take into account varying needs between countries to meet customer demands, gain a competitive advantage, and benefit from logistical advantages [3].
+
+By Country/City:
+Cultural values of a country influence consumer preferences. For example, some cultures emphasize large families, while others highlight individual independence. This can lead to differences in vehicle designs and features. Color preferences and design elements may also vary depending on culture. Colors and design elements popular in one country may not be as appealing in others. The economic situation of a country affects consumer purchasing power. In countries with stronger economies, consumers may prefer more luxurious and technologically advanced vehicles. Geographical features such as climate and terrain influence the design and technical specifications of vehicles. For instance, if a country experiences snowy and icy roads in winter, vehicles should be designed to accommodate such conditions. Geographical location affects a country's access to energy resources, influencing strategic decisions on electric vehicles or alternative fuel technologies [4].
+
+The reason for specifically requesting data based on the city in our study is to demonstrate that model production is more beneficial due to these factors.
+
+By Vehicle Feature:
+Understanding consumer preferences in a specific region and producing accordingly can increase customer satisfaction. Offering products with popular colors, vehicle types, or engine features can boost sales. Providing models that better suit the preferences of a specific region compared to rival brands can provide a competitive advantage and increase market share in that region [5].
+
+For example, vehicles with sharp lines preferred by consumers in Mersin can be designed. An aggressive front grille, a hood with sharp lines, and an overall profile with sharpness can create a sporty and attractive appearance. Sharp and unique headlight designs can enhance the vehicle's exterior. Features such as LED headlights or sleek and sharp headlight designs can highlight the vehicle's character. Considering that consumers in Mersin prefer dynamic and eye-catching colors, manufacturers can offer their vehicles with vibrant color options, such as red, orange, or metallic tones. Interior designs appealing to consumers in Mersin can also be considered, such as special sports seats, aluminum or carbon fiber interior details, and sporty steering wheel designs.
+
+In our study, using the data we obtained and assumed, the machine learning system is trained with features such as the color, engine capacity, vehicle type, fuel type, etc., of the produced vehicles. When tested with new user data, the system recommends the most suitable features based on the desired criteria. As a result, the system generates a visually appealing and unique vehicle model based on these results.
+
+References
+
+GÜNGÖR, İ., & İŞLER, D. B. (2005). ANALYTICAL HIERARCHY APPROACH TO CAR SELECTION. International Journal of Management Economics and Business, 1(2), 21-33.
+AKBAŞ, B., KAYA, D., & EYİDOĞAN, M. (2018). Energy Consumption Analysis and Evaluation of Energy Saving Potential for an Automobile Assembly Factory. Journal of Engineering and Machinery, 59(691), 85-100.
+Bedir, Atila. (2002). PERSPECTIVE OF DEVELOPMENT IN THE AUTOMOTIVE INDUSTRY IN TURKEY.
+YURTSEVER, M. (2022). AUTOMOBILE SALES FORECAST USING THE LSTM METHOD WITH ECONOMIC INDICATORS. Nevşehir Hacı Bektaş Veli University Journal of Graduate School of Social Sciences, 12(3), 1481-1492. https://doi.org/10.30783/nevsosbilen.987093
+ULUSCUL, C., & DEMİR, A. O. (2023). Consumer Trends in Automobile Preferences, New and Second-Hand Automobile Decision in Turkey. Istanbul University Journal of Entrepreneurship, 7(13), 64-86. https://doi.org/10.55830/tje.1242186

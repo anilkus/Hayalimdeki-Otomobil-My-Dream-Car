@@ -69,7 +69,10 @@ In our study, using the data we obtained and assumed, the machine learning syste
 **References**
 
 GÜNGÖR, İ., & İŞLER, D. B. (2005). ANALYTICAL HIERARCHY APPROACH TO CAR SELECTION. International Journal of Management Economics and Business, 1(2), 21-33.
+
 AKBAŞ, B., KAYA, D., & EYİDOĞAN, M. (2018). Energy Consumption Analysis and Evaluation of Energy Saving Potential for an Automobile Assembly Factory. Journal of Engineering and Machinery, 59(691), 85-100.
 Bedir, Atila. (2002). PERSPECTIVE OF DEVELOPMENT IN THE AUTOMOTIVE INDUSTRY IN TURKEY.
+
 YURTSEVER, M. (2022). AUTOMOBILE SALES FORECAST USING THE LSTM METHOD WITH ECONOMIC INDICATORS. Nevşehir Hacı Bektaş Veli University Journal of Graduate School of Social Sciences, 12(3), 1481-1492. https://doi.org/10.30783/nevsosbilen.987093
+
 ULUSCUL, C., & DEMİR, A. O. (2023). Consumer Trends in Automobile Preferences, New and Second-Hand Automobile Decision in Turkey. Istanbul University Journal of Entrepreneurship, 7(13), 64-86. https://doi.org/10.55830/tje.1242186
